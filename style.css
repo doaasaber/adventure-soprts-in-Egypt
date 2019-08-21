@@ -1,0 +1,33 @@
+body{
+color:black;
+margin-left: 30px;
+margin-right: 30px;
+font-family: arial;
+}
+
+
+div{
+min-height:100vh;
+width:100vw;
+
+}
+h1,h2{
+  text-align:center;
+}
+h1{
+  font-size:5em;
+
+}
+
+.name{
+  border-radius: 50%;
+}
+p#second{
+  text-align: center;
+}
+p#young{
+  text-align: right;
+}
+.world{
+  background-color: pink;
+}
